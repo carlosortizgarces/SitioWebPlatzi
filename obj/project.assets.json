@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\CarlosWebPlatziMvc\\CarlosWebPlatziMvc.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\SitioWebPlatzi\\CarlosWebPlatziMvc.csproj",
       "projectName": "CarlosWebPlatziMvc",
-      "projectPath": "C:\\Users\\carlo\\CarlosWebPlatziMvc\\CarlosWebPlatziMvc.csproj",
+      "projectPath": "C:\\Users\\carlo\\SitioWebPlatzi\\CarlosWebPlatziMvc.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\CarlosWebPlatziMvc\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
